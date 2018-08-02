@@ -1,3 +1,3 @@
 # README
 
-rails music albums app 
+rails music albums list app 
